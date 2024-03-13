@@ -12,8 +12,9 @@
 
 En conjunto con el proyecto de investigación y el seminario de graduación de licenciatura, el TCU está creando el primer sistema de información integral del servicio de transporte público en el país, para el bus interno de la Universidad de Costa Rica.
 
-- Realizamos una encuesta a más de 700 personas con un instrumento diseñado para la evaluación de los servicios de transporte público.
-- Creamos un sistema de señalética.
+- Realizamos una encuesta a más de 700 personas con un instrumento diseñado para la evaluación de los servicios de transporte público. Disponible en el [repositorio Kérwá](https://kerwa.ucr.ac.cr/handle/10669/91076).
+- Creamos una propuesta de un sistema de información del servicio del bus interno. Disponible en el [repositorio Kérwá](https://kerwa.ucr.ac.cr/handle/10669/91076).
+- Creamos una propuesta de un sistema de señalética. La documentación está disponible en [GitHub](https://fabianabarca.github.io/senaletica).
 
 ![Logo bUCR](assets/img/b_azul.png)
 
