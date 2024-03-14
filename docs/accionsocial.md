@@ -1,12 +1,15 @@
 # Acción social
 
-## TC-691 Tropicalización de la tecnología
+## Trabajo comunal universitario
 
-### De Feria
+!!! abstract "Proyecto de Acción Social TC-691"
+    Tropicalización de la tecnología
+
+### Proyecto DeFeria
 
 ![Logo DeFeria](assets/img/deferia_rojo.png)
 
-### Información del transporte público
+### Proyecto de información del transporte público
 
 #### Plan piloto del sistema de información del bus interno de la UCR
 
