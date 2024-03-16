@@ -1,8 +1,6 @@
-# Hola, soy Fabián Abarca Calderón
+# Fabián Abarca Calderón
 
-Soy profesor de la Escuela de Ingeniería Eléctrica de la Universidad de Costa Rica y estudiante del Programa de Doctorado en Ingeniería de la Universidad de Costa Rica y el Instituto Tecnológico de Costa Rica.
-
-En este sitio web personal hay más detalles sobre mi trabajo. 
+Soy profesor de la Escuela de Ingeniería Eléctrica de la Universidad de Costa Rica.
 
 ## Intereses académicos
 
@@ -16,3 +14,5 @@ Realizo investigación, docencia y acción social en los siguientes temas:
 - Movilidad activa | ciclismo urbano
 - Visualización de datos
 - Ferias del agricultor
+
+Actualmente soy estudiante del Programa de Doctorado en Ingeniería de la Universidad de Costa Rica y el Instituto Tecnológico de Costa Rica.

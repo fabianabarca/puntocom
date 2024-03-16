@@ -1,4 +1,4 @@
-# Acción social
+# Acción Social
 
 > Mi trabajo de acción social combina mis intereses de investigación y otros temas de interés personal con su aplicación en la atención de necesidades comunitarias. Por ejemplo, en el tema de ferias del agricultor aplicamos herramientas para el desarrollo de sistemas de información para la creación de sitios informativos junto con campañas de sensibilización en redes sociales. Todo esto acompañado de estudios de opinión, entrevistas, conversatorios y otras formas de acercamiento a la comunidad.
 
