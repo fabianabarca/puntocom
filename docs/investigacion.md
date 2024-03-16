@@ -1,17 +1,33 @@
 # Investigación
 
+> Actualmente, mi investigación gira alrededor del análisis de datos, con aplicación específica en sistemas inteligentes de transporte público. En varios proyectos vigentes estoy trabajando con docentes, estudiantes y organizaciones públicas y privadas en el planteamiento y la implementación de arquitecturas tecnológicas adaptadas a Costa Rica. Además, estoy trabajando en el desarrollo de métodos de aprendizaje automático para análisis de series temporales, útiles en tareas como la predicción o la detección de anomalías en el servicio de buses.
+
 ## Sistemas inteligentes de transporte público
 
-En esta área de investigación estoy coordinando los siguientes proyectos.
+En esta área de investigación estoy coordinando o dirigiendo los siguientes proyectos.
 
-### Proyecto en la Vicerrectoría de Investigación
-
-!!! abstract "Proyecto de Investigación 322-C3-184"
+!!! abstract "Proyecto de Investigación 322-C3-184 (2023 - 2026)"
     **Análisis de datos abiertos de sistemas inteligentes de transporte público con herramientas de aprendizaje automático**
 
     ---
 
-    Ahora sí, dijo Tapón.
+    Los resultados principales esperados incluyen una plataforma de recolección de datos abiertos de transporte público y estrategias de aprendizaje automático en tiempo real y adaptativas para la predicción de series temporales.
+
+!!! abstract "Proyecto de Investigación C1749 (2021 - 2022)"
+    **Investigación del estado de la cuestión para la aplicación de aprendizaje automático en el análisis de datos espacio-temporales**
+
+    ---
+
+    Este fue un proyecto de apoyo a la investigación que facilitó la identificación de la problemática del análisis de datos espacio-temporales en el transporte público como caso especial, y el vacío de investigación específica para Costa Rica.
+
+!!! abstract "Trabajo final de graduación de licenciatura modalidad seminario (2022 - 2024)"
+    **Diseño de una arquitectura de referencia para un sistema inteligente de transporte público en Costa Rica**
+
+    ---
+
+    Este es un proyecto con estudiantes de licenciatura en ingeniería eléctrica que busca hacer propuestas concretas para una arquitectura tecnológica de un sistema inteligente de transporte público en Costa Rica, junto con la implementación de un plan piloto en la UCR.
+
+A partir de estos proyectos y en conjunto con el trabajo comunal universitario TC-691 "Tropicalización de la tecnología" y otras instancias, estoy coordinando el desarrollo de los siguientes proyectos de software.
 
 <div class="grid cards" markdown>
 
@@ -19,7 +35,7 @@ En esta área de investigación estoy coordinando los siguientes proyectos.
     
     ---
     
-    Una plataforma de recolección de datos de **GTFS Realtime** para la transformación en series temporales multivariadas para análisis con aprendizaje automático.
+    Una plataforma de recolección de datos de **GTFS Realtime** para su transformación en series temporales multivariadas para el análisis con aprendizaje automático.
 
     [:material-github: fabianabarca/gtfs2series](https://github.com/fabianabarca/gtfs2series)
 
@@ -27,28 +43,15 @@ En esta área de investigación estoy coordinando los siguientes proyectos.
     
     ---
     
-    Un paquete de Python, complementario a **gtfs2series** para la transformación de datos **GTFS Realtime** en series temporales multivariadas para análisis con aprendizaje automático. 
+    Un paquete de Python, complementario a **gtfs2series**, para la transformación de datos **GTFS Realtime** en series temporales multivariadas para el análisis con aprendizaje automático. 
     
     [:material-github: fabianabarca/g2s](https://github.com/fabianabarca/g2s)
 
-</div>
-
-### Trabajo final de graduación de licenciatura en Ingeniería Eléctrica
-
-!!! abstract "Seminario de graduación"
-    Diseño de una arquitectura de referencia para un sistema inteligente de transporte público en Costa Rica
-
-## Proyectos en desarrollo
-
-A partir de los temas de investigación anteriores, los siguientes proyectos están en desarrollo.
-
-<div class="grid cards" markdown>
-
--  :material-bus-clock:{ .lg .middle } __realtime__
+-  :material-bus-clock:{ .lg .middle } **realtime**
     
     ---
     
-    Un servidor para la recolección de datos en tiempo real y creación del suministro de datos **GTFS Realtime**.
+    Un servidor para la recolección de datos en tiempo real de vehículos de transporte público y creación del suministro de datos **GTFS Realtime**.
 
     [:material-github: fabianabarca/realtime](https://github.com/fabianabarca/realtime)
 
@@ -56,7 +59,7 @@ A partir de los temas de investigación anteriores, los siguientes proyectos est
     
     ---
     
-    Un servidor para la recolección de datos **GTFS Realtime** y distribución a pantallas informativas en paradas de buses. 
+    Un servidor para la recolección de datos **GTFS Realtime** y la distribución de información a pantallas del servicio en paradas de buses. 
     
     [:material-github: fabianabarca/screens](https://github.com/fabianabarca/screens)
 
@@ -64,7 +67,7 @@ A partir de los temas de investigación anteriores, los siguientes proyectos est
     
     ---
     
-    Un editor web para la creación del suministro de datos **GTFS Schedule** diseñado para el contexto de Costa Rica. 
+    Una plataforma con un editor web para la creación del suministro de datos **GTFS Schedule**, diseñado para el contexto de Costa Rica. 
     
     [:material-github: fabianabarca/databus](https://github.com/fabianabarca/databus)
 
@@ -72,15 +75,31 @@ A partir de los temas de investigación anteriores, los siguientes proyectos est
     
     ---
     
-    Un paquete de Python con algoritmos de estimación de los tiempos de llegada a las paradas en **GTFS Schedule**. 
+    Un paquete de Python, complementario a **databus**, con algoritmos de estimación de los tiempos de llegada a las paradas en **GTFS Schedule**. 
     
     [:material-github: fabianabarca/databus-stoptimes](https://github.com/fabianabarca/databus-stoptimes)
 
+-  :material-calendar-clock:{ .lg .middle } **gdf2shapes**
+    
+    ---
+    
+    Un paquete de Python, complementario a **databus**, que transforma datos geoespaciales tipo GeoDataFrame en el formato `shapes.txt` de **GTFS Schedule**. 
+    
+    [:material-github: fabianabarca/gdf2shapes](https://github.com/fabianabarca/gdf2shapes)
+
 </div>
 
-## Otra investigación
+## Movilidad activa
 
-### Análisis de factores ambientales en el uso de la bicicleta en ciudades
+### Análisis de factores ambientales en el uso de la bicicleta
+
+En su fase inicial, este proyecto pretende explorar la hipótesis de que ciertas condiciones ambientales tienen un efecto significativo en la decisión de las personas de usar la bicicleta como medio de transporte. 
+
+Si bien es conocido que la infraestructura vial (como ciclovías y otros) es el factor que más influye en esta decisión, es necesario explorar también otras causas que puedan ser relevantes y que puedan orientar la política pública en ese sentido. 
+
+La literatura existente está centrada mayormente en estudios hechos en ciudades norteamericanas y europeas, cuyas condiciones son relativamente homogéneas y no capturan necesariamente estos factores. Por ejemplo, la topografía y el clima son factores distintivos en un país como Costa Rica. 
+
+El paquete de Python en desarrollo ya arrojó algunos resultados preliminares que muestran una correlación positiva entre la popularidad del uso de la bicicleta y qué tan "plana" es una ciudad, aplicado a más de 90 ciudades en un área de varios kilómetros cuadrados.
 
 <div class="grid cards" markdown>
 
@@ -88,7 +107,7 @@ A partir de los temas de investigación anteriores, los siguientes proyectos est
     
     ---
     
-    Un paquete de Python para analizar el efecto de los factores ambientales (por ejemplo, topográficos y climáticos) en el uso de la bicicleta como medio de transporte en ciudades.
+    Un paquete de Python para analizar el efecto de los factores ambientales (por ejemplo, topográficos y climáticos) en el uso de la bicicleta como medio de transporte en ciudades, por medio del análisis de la red vial y otros datos complementarios.
 
     [:material-github: fabianabarca/bikenv](https://github.com/fabianabarca/bikenv)
 

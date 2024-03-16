@@ -11,13 +11,21 @@ theme:
   name: material
   language: es
   palette:
-    primary: black
+    primary: blue grey
   logo: assets/img/fa_blanco.png
   favicon: assets/img/favicon.png
   features:
-    - navigation.expand
     - navigation.tabs
+    - navigation.sections
+    - navigation.top
     - toc.integrate
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter 
+      link: https://twitter.com/fabianabarca
+    - icon: fontawesome/brands/github 
+      link: https://github.com/fabianabarca
+  generator: false
 
 markdown_extensions:
   - admonition
