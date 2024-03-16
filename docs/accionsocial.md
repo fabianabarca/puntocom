@@ -57,6 +57,8 @@ Una de las carencias más evidentes de los sistemas de transporte público en Co
 
 En conjunto con el proyecto de investigación 322-C3-184 y el seminario de graduación de licenciatura, el TCU está creando el primer sistema de información integral del servicio de transporte público en el país, para el bus interno de la Universidad de Costa Rica.
 
+![Logo bUCR](assets/img/b_azul.png)
+
 <div class="grid cards" markdown>
 
 -  :material-text-box:{ .lg .middle } **Informe de encuesta de satisfacción**
