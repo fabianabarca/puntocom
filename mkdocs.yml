@@ -11,7 +11,7 @@ theme:
   name: material
   language: es
   palette:
-    primary: indigo
+    primary: grey
   logo: assets/img/fa_blanco.png
   favicon: assets/img/favicon.png
   features:
