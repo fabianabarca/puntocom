@@ -97,10 +97,6 @@ En su fase inicial, este proyecto pretende explorar la hipótesis de que ciertas
 
 Si bien es conocido que la infraestructura vial (como ciclovías y otros) es el factor que más influye en esta decisión, es necesario explorar también otras causas que puedan ser relevantes y que puedan orientar la política pública en ese sentido. 
 
-La literatura existente está centrada mayormente en estudios hechos en ciudades norteamericanas y europeas, cuyas condiciones son relativamente homogéneas y no capturan necesariamente estos factores. Por ejemplo, la topografía y el clima son factores distintivos en un país como Costa Rica. 
-
-El paquete de Python en desarrollo ya arrojó algunos resultados preliminares que muestran una correlación positiva entre la popularidad del uso de la bicicleta y qué tan "plana" es una ciudad, aplicado a más de 90 ciudades en un área de varios kilómetros cuadrados.
-
 <div class="grid cards" markdown>
 
 -  :material-bike-fast:{ .lg .middle } **bikenv**
@@ -112,3 +108,7 @@ El paquete de Python en desarrollo ya arrojó algunos resultados preliminares qu
     [:material-github: fabianabarca/bikenv](https://github.com/fabianabarca/bikenv)
 
 </div>
+
+La literatura existente está centrada mayormente en estudios hechos en ciudades norteamericanas y europeas, cuyas condiciones son relativamente homogéneas y no capturan necesariamente estos factores. Por ejemplo, la topografía y el clima son factores distintivos en un país como Costa Rica. 
+
+El paquete de Python en desarrollo ya arrojó algunos resultados preliminares que muestran una correlación positiva entre la popularidad del uso de la bicicleta y qué tan "plana" es una ciudad, aplicado a más de 90 ciudades en un área de varios kilómetros cuadrados.

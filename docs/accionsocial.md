@@ -1,8 +1,10 @@
 # Acción social
 
-> Mi trabajo de acción social combina mis intereses de investigación con su aplicación en necesidades comunitarias. También incluye otros temas de mi interés personal, como las ferias del agricultor. En este último tema, por ejemplo, aplicamos herramientas y conocimientos adquiridos en mi investigación, tales como el desarrollo de sistemas de información, para la creación de sitios informativos junto con campañas de sensibilización en redes sociales. Todo esto acompañado de estudios de opinión y otros formas de acercamiento a la comunidad.
+> Mi trabajo de acción social combina mis intereses de investigación y otros temas de interés personal con su aplicación en la atención de necesidades comunitarias. Por ejemplo, en el tema de ferias del agricultor aplicamos herramientas para el desarrollo de sistemas de información para la creación de sitios informativos junto con campañas de sensibilización en redes sociales. Todo esto acompañado de estudios de opinión, entrevistas, conversatorios y otras formas de acercamiento a la comunidad.
 
 ## Trabajo comunal universitario
+
+Fui coordinador de un proyecto de trabajo comunal universitario del 2018 al 2023 y actualmente soy colaborador y coordinador de varios subproyectos, descritos más adelante.
 
 !!! abstract "Proyecto de Acción Social TC-691 (2018 - presente)"
     **Tropicalización de la tecnología**
@@ -11,27 +13,9 @@
 
     Un trabajo comunal universitario dedicado a la aplicación de soluciones tecnológicas a problemas comunitarios.
 
-Fui coordinador de este TCU del 2018 al 2023 y actualmente soy colaborador y coordinador de varios subproyectos descritos más adelante.
-
-También, como parte del mismo TCU decidimos resolver una necesidad que teníamos con el registro de horas de trabajo, y aprovechamos nuestro conocimiento en desarrollo web para crear el siguiente sistema.
-
-<div class="grid cards" markdown>
-
--  :material-clock:{ .lg .middle } **horas**
-    
-    ---
-    
-    Una página web para el registro de horas de trabajo comunal universitario en TC-691 Tropicalización de la tecnología. 
-    
-    [:material-link-circle: tropicalizacion.eie.ucr.ac.cr](https://tropicalizacion.eie.ucr.ac.cr/)
-
-    [:material-github: fabianabarca/horas](https://github.com/fabianabarca/horas)
-
-</div>
-
 ## Ferias del agricultor
 
-A partir de la pregunta **¿dónde está la feria?**, consecuencia del gran vacío de información para el público en general que existe alrededor de la operación de las ferias del agricultor, comenzamos a explorar un tema que rápidamente nos pareció fascinante. De ahí nació el proyecto **deferia.cr**.
+A partir de la pregunta **¿dónde está la feria y cuándo está abierta?** comenzamos a explorar un tema que rápidamente nos pareció fascinante. De ahí nació el proyecto **deferia.cr**. Encontramos un gran vacío de información para el público en general sobre la operación de las ferias del agricultor, donde solo es posible encontrar información dispersa, desactualizada y en formatos poco accesibles.
 
 ![Logo DeFeria](assets/img/deferia_rojo.png)
 
@@ -105,8 +89,26 @@ Hoy en día este sitio recibe en promedio 1000 visitantes diarios, que confirma 
     
     Una página web con información del servicio de transporte público para las comunidades de San Gabriel de Aserrí, San Ignacion de Acosta y alrededores. 
     
-    [:material-link-circle: transportessangabriel.com](https://transportessangabriel.com/).
+    [:material-link-circle: transportessangabriel.com](https://transportessangabriel.com/)
 
     [:material-github: fabianabarca/buses](https://github.com/fabianabarca/buses)
+
+</div>
+
+## Otros trabajos
+
+Como parte de este TCU decidimos resolver una necesidad que teníamos con el registro de horas de trabajo, y aprovechamos nuestro conocimiento en desarrollo web para crear el siguiente sistema.
+
+<div class="grid cards" markdown>
+
+-  :material-clock:{ .lg .middle } **horas**
+    
+    ---
+    
+    Una página web para el registro de horas de trabajo comunal universitario en TC-691 "Tropicalización de la tecnología". 
+    
+    [:material-link-circle: tropicalizacion.eie.ucr.ac.cr](https://tropicalizacion.eie.ucr.ac.cr/)
+
+    [:material-github: fabianabarca/horas](https://github.com/fabianabarca/horas)
 
 </div>
