@@ -1,6 +1,6 @@
 # Investigación
 
-> Actualmente, mi investigación gira alrededor del análisis de datos, con aplicación específica en sistemas inteligentes de transporte público. En varios proyectos vigentes estoy trabajando con docentes, estudiantes y organizaciones públicas y privadas en el planteamiento y la implementación de arquitecturas tecnológicas adaptadas a Costa Rica. Además, estoy trabajando en el desarrollo de métodos de aprendizaje automático para análisis de series temporales, útiles en tareas como la predicción o la detección de anomalías en el servicio de buses.
+> Mi investigación gira alrededor del análisis de datos, con aplicación específica en sistemas inteligentes de transporte público. Estoy trabajando con docentes, estudiantes y organizaciones públicas y privadas en el planteamiento y la implementación de arquitecturas tecnológicas adaptadas a Costa Rica. Trabajo en el desarrollo de métodos de aprendizaje automático para análisis de series temporales, útiles en tareas como la predicción o la detección de anomalías en el servicio de buses.
 
 ## Sistemas inteligentes de transporte público
 
