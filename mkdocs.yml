@@ -6,6 +6,8 @@ nav:
   - Docencia: docencia.md
   - Acción Social: accionsocial.md
   - Biografía: personal.md
+  - Blog: 
+    - blog/index.md
 
 theme:
   name: material
@@ -19,6 +21,10 @@ theme:
     - navigation.sections
     - navigation.top
     - toc.integrate
+
+plugins:
+  - blog
+
 extra:
   social:
     - icon: fontawesome/brands/x-twitter 
