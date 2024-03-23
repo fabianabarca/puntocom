@@ -1,8 +1,26 @@
 # Investigación
 
-> Mi investigación gira alrededor del análisis de datos, con aplicación específica en sistemas inteligentes de transporte público. Estoy trabajando con docentes, estudiantes y organizaciones públicas y privadas en el planteamiento y la implementación de arquitecturas tecnológicas adaptadas a Costa Rica. Trabajo en el desarrollo de métodos de aprendizaje automático para análisis de series temporales, útiles en tareas como la predicción o la detección de anomalías en el servicio de buses.
+> Mi investigación está centrada en arquitecturas tecnológicas y análisis de datos, con aplicación específica en sistemas inteligentes de transporte público. Estoy trabajando con docentes, estudiantes y organizaciones públicas y privadas en el planteamiento y la implementación de arquitecturas tecnológicas adaptadas a Costa Rica. Trabajo en el desarrollo de métodos de aprendizaje automático para análisis de series temporales, útiles en tareas como la predicción o la detección de anomalías en el servicio de buses.
 
 ## Sistemas inteligentes de transporte público
+
+### Temas de interés
+
+- Modelos de arquitecturas tecnológicas[^1]
+- Tecnologías y estándares de datos[^2]
+- Sistemas de información de servicios
+- Sistemas de datos en tiempo real
+- Bases de datos geoespaciales
+- Gobernanza digital y datos abiertos[^3]
+
+[^1]: 
+    Por ejemplo, la [Referencia de Arquitectura para Transporte Cooperativo e Inteligente](https://www.arc-it.net/) (ARC-IT) del Departamento de Transporte de Estados Unidos
+[^2]:
+    Siguiendo, por ejemplo, los [Principios de Interoperabilidad de Datos de Mobilidad](https://www.interoperablemobility.org/)
+[^3]:
+    Según las definiciones de la [biblioteca](https://biblioguias.cepal.org/gobierno-digital/concepto-gobernanza) de la CEPAL
+
+### Proyectos
 
 En esta área de investigación estoy coordinando o dirigiendo los siguientes proyectos.
 
@@ -27,6 +45,8 @@ En esta área de investigación estoy coordinando o dirigiendo los siguientes pr
 
     Este es un proyecto con estudiantes de licenciatura en ingeniería eléctrica que busca hacer propuestas concretas para una arquitectura tecnológica de un sistema inteligente de transporte público en Costa Rica, junto con la implementación de un plan piloto en la UCR.
 
+### Repositorios
+
 A partir de estos proyectos y en conjunto con el trabajo comunal universitario TC-691 "Tropicalización de la tecnología" y otras instancias, estoy coordinando el desarrollo de los siguientes proyectos de software.
 
 <div class="grid cards" markdown>
@@ -39,6 +59,8 @@ A partir de estos proyectos y en conjunto con el trabajo comunal universitario T
 
     [:material-github: fabianabarca/gtfs2series](https://github.com/fabianabarca/gtfs2series)
 
+    <small>Django | Python | Celery | PostgreSQL | PostGIS</small>
+
 -  :material-chart-line:{ .lg .middle } **g2s**
     
     ---
@@ -46,6 +68,8 @@ A partir de estos proyectos y en conjunto con el trabajo comunal universitario T
     Un paquete de Python, complementario a **gtfs2series**, para la transformación de datos **GTFS Realtime** en series temporales multivariadas para el análisis con aprendizaje automático. 
     
     [:material-github: fabianabarca/g2s](https://github.com/fabianabarca/g2s)
+
+    <small>Python | Pandas | GeoPandas</small>
 
 -  :material-bus-clock:{ .lg .middle } **realtime**
     
@@ -55,6 +79,8 @@ A partir de estos proyectos y en conjunto con el trabajo comunal universitario T
 
     [:material-github: fabianabarca/realtime](https://github.com/fabianabarca/realtime)
 
+    <small>Django | Python | Celery | RESTful API | PostgreSQL | PostGIS</small>
+
 -  :material-fit-to-screen:{ .lg .middle } **screens**
     
     ---
@@ -62,6 +88,8 @@ A partir de estos proyectos y en conjunto con el trabajo comunal universitario T
     Un servidor para la recolección de datos **GTFS Realtime** y la distribución de información a pantallas del servicio en paradas de buses. 
     
     [:material-github: fabianabarca/screens](https://github.com/fabianabarca/screens)
+
+    <small>Django | Python | Celery | WebSockets | PostgreSQL | PostGIS</small>
 
 -  :material-calendar-edit:{ .lg .middle } **databus**
     
@@ -71,6 +99,8 @@ A partir de estos proyectos y en conjunto con el trabajo comunal universitario T
     
     [:material-github: fabianabarca/databus](https://github.com/fabianabarca/databus)
 
+    <small>Django | React</small>
+
 -  :material-calendar-clock:{ .lg .middle } **databus-stoptimes**
     
     ---
@@ -79,6 +109,8 @@ A partir de estos proyectos y en conjunto con el trabajo comunal universitario T
     
     [:material-github: fabianabarca/databus-stoptimes](https://github.com/fabianabarca/databus-stoptimes)
 
+    <small>Python | GeoPandas</small>
+
 -  :material-calendar-clock:{ .lg .middle } **gdf2shapes**
     
     ---
@@ -86,6 +118,8 @@ A partir de estos proyectos y en conjunto con el trabajo comunal universitario T
     Un paquete de Python, complementario a **databus**, que transforma datos geoespaciales tipo GeoDataFrame en el formato `shapes.txt` de **GTFS Schedule**. 
     
     [:material-github: fabianabarca/gdf2shapes](https://github.com/fabianabarca/gdf2shapes)
+
+    <small>Python | GeoPandas</small>
 
 </div>
 

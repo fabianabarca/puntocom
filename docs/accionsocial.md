@@ -7,9 +7,7 @@
 Fui coordinador de un proyecto de trabajo comunal universitario del 2018 al 2023 y actualmente soy colaborador y coordinador de varios subproyectos, descritos más adelante.
 
 !!! abstract "Proyecto de Acción Social TC-691 (2018 - presente)"
-    **Tropicalización de la tecnología**
-
-    ---
+    ![Logo TC-691 Tropicalización de la tecnología](assets/img/tropicalizacion_negro.png)
 
     Un trabajo comunal universitario dedicado a la aplicación de soluciones tecnológicas a problemas comunitarios.
 
@@ -31,13 +29,15 @@ A partir de la pregunta **¿dónde está la feria y cuándo está abierta?** com
 
     [:material-github: fabianabarca/ferias](https://github.com/fabianabarca/ferias)
 
+    <small>Django | Python | RESTful API | PostgreSQL | PostGIS</small>
+
 </div>
 
 ## Sistemas de información del transporte público
 
 Una de las carencias más evidentes de los sistemas de transporte público en Costa Rica es la falta de información clara sobre su operación.
 
-### Plan piloto del bus interno de la UCR
+### Plan piloto de los buses de la UCR
 
 En conjunto con el proyecto de investigación 322-C3-184 y el seminario de graduación de licenciatura, el TCU está creando el primer sistema de información integral del servicio de transporte público en el país, para el bus interno de la Universidad de Costa Rica.
 
@@ -57,7 +57,7 @@ En conjunto con el proyecto de investigación 322-C3-184 y el seminario de gradu
     
     ---
     
-    Una página web con información del servicio de bus interno de la Universidad de Costa Rica, *b***UCR**. 
+    Una página web con información del servicio de buses de la Universidad de Costa Rica, *b***UCR**. Primera versión estática.
     
     [:material-link-circle: bus.ucr.ac.cr](https://bus.ucr.ac.cr/).
 
@@ -100,6 +100,8 @@ El sitio está disponible como un proyecto de código abierto.
 
     [:material-github: fabianabarca/buses](https://github.com/fabianabarca/buses)
 
+    <small>Django | Python | VueJS</small>
+
 </div>
 
 ## Otros trabajos
@@ -117,5 +119,7 @@ Como parte de este TCU decidimos resolver una necesidad que teníamos con el reg
     [:material-link-circle: tropicalizacion.eie.ucr.ac.cr](https://tropicalizacion.eie.ucr.ac.cr/)
 
     [:material-github: fabianabarca/horas](https://github.com/fabianabarca/horas)
+
+    <small>Django | Python</small>
 
 </div>

@@ -21,6 +21,7 @@ theme:
     - navigation.sections
     - navigation.top
     - toc.integrate
+    - content.tooltips
 
 plugins:
   - blog
@@ -40,8 +41,13 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - attr_list
   - md_in_html
+  - footnotes
+  - abbr
+  - attr_list
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg

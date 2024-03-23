@@ -61,9 +61,11 @@ La plataforma en desarrollo está disponible como un repositorio de código abie
     
     ---
     
-    Un sitio web desarrollado en Django como *back-end* y Reveal.JS como *front-end* para hacer presentaciones interactivas de contenido matemático y de programación.
+    Un sitio web desarrollado para hacer presentaciones interactivas de contenido matemático y de programación.
 
     [:material-github: fabianabarca/presentaciones](https://github.com/fabianabarca/presentaciones)
+
+    <small>Django | RevealJS | PyScript | Python | NumPy | SciPy | Bokeh</small>
 
 </div>
 
