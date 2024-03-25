@@ -29,7 +29,7 @@ A partir de la pregunta **¿dónde está la feria y cuándo está abierta?** com
 
     [:material-github: fabianabarca/ferias](https://github.com/fabianabarca/ferias)
 
-    <small>Django | Python | RESTful API | PostgreSQL | PostGIS</small>
+    <small>Django | Python | API | PostgreSQL | PostGIS</small>
 
 </div>
 
@@ -51,7 +51,7 @@ En conjunto con el proyecto de investigación 322-C3-184 y el seminario de gradu
     
     Un reporte de la encuesta aplicada a más de 700 personas en el campus Rodrigo Facio con un instrumento desarrollado para evaluar el servicio del bus interno.
 
-    [:material-link-circle: Kérwá 10669/91076](https://kerwa.ucr.ac.cr/handle/10669/91076)
+    [:material-link-circle: Repositorio Kérwá 10669/91076](https://kerwa.ucr.ac.cr/handle/10669/91076)
 
 -  :material-bus:{ .lg .middle } **bucr**
     
@@ -100,7 +100,7 @@ El sitio está disponible como un proyecto de código abierto.
 
     [:material-github: fabianabarca/buses](https://github.com/fabianabarca/buses)
 
-    <small>Django | Python | VueJS</small>
+    <small>Django | Python | Vue</small>
 
 </div>
 

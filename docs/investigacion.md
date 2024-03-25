@@ -79,7 +79,7 @@ A partir de estos proyectos y en conjunto con el trabajo comunal universitario T
 
     [:material-github: fabianabarca/realtime](https://github.com/fabianabarca/realtime)
 
-    <small>Django | Python | Celery | RESTful API | PostgreSQL | PostGIS</small>
+    <small>Django | Python | Celery | API | PostgreSQL | PostGIS</small>
 
 -  :material-fit-to-screen:{ .lg .middle } **screens**
     
@@ -99,7 +99,7 @@ A partir de estos proyectos y en conjunto con el trabajo comunal universitario T
     
     [:material-github: fabianabarca/databus](https://github.com/fabianabarca/databus)
 
-    <small>Django | React</small>
+    <small>Django | API | React</small>
 
 -  :material-calendar-clock:{ .lg .middle } **databus-stoptimes**
     
