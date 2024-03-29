@@ -1,6 +1,6 @@
 # Docencia
 
-> Soy profesor del curso introductorio a la probabilidad y la estadística en la Escuela de Ingeniería Eléctrica, donde hago énfasis en el uso de herramientas computacionales para el análisis de datos masivos. Desde 2022, y motivado por la virtualidad durante la pandemia, estoy desarrollando un nuevo sistema de presentaciones capaz de mejorar la experiencia interactiva durante las sesiones virtuales sincrónicas, especialmente diseñado para contenido de tipo matemático y de programación.
+> Soy profesor del curso introductorio a la probabilidad y la estadística en la Escuela de Ingeniería Eléctrica, donde hago énfasis en el uso de herramientas computacionales para el análisis de datos. Desde 2022, y motivado por la virtualidad durante la pandemia, estoy desarrollando un nuevo sistema de presentaciones capaz de mejorar la experiencia interactiva durante las sesiones virtuales sincrónicas, diseñado especialmente para contenido de tipo matemático y de programación.
 
 ## Curso introductorio a la probabilidad y estadística
 
@@ -16,6 +16,8 @@
 
     [:material-link-circle: Repositorio Kérwá 10669/83895](https://kerwa.ucr.ac.cr/handle/10669/83895)
 
+    <small>LaTeX | Beamer | TikZ/PGF</small>
+
 -  :material-language-python:{ .lg .middle } **python**
     
     ---
@@ -24,18 +26,25 @@
 
     [:material-github: fabianabarca/python](https://github.com/fabianabarca/python)
 
+    <small>Python | NumPy | SciPy | Pandas | Matplotlib</small>
+
 </div>
 
-## Un nuevo sistema de presentaciones: **diapo**
+## Un nuevo sistema de presentaciones
 
-Este proyecto de docencia propone el desarrollo de una herramienta pedagógica y tecnológica alrededor del curso IE0405 - Modelos Probabilísticos de Señales y Sistemas.
+Este proyecto de docencia propone el desarrollo de una herramienta pedagógica y tecnológica alrededor del curso MPSS.
 
 !!! abstract "Proyecto de Docencia PD-IE-472-2022 (2022 - 2025)"
-    **Estrategias docentes para sesiones virtuales interactivas con el desarrollo de un nuevo sistema web: una experiencia en el curso Modelos Probabilísticos de Señales y Sistemas**
+    **Estrategias docentes para sesiones virtuales interactivas con el desarrollo de un nuevo sistema web: una experiencia en el curso MPSS**
 
     ---
 
-    Un proyecto para desarrollar una nueva plataforma de presentaciones web, capaz de explotar la versatilidad de las tecnologías web para la visualización de datos, la interactividad y la programación, entre otras capacidades.
+    Principales resultados esperados:
+    
+    - Una plataforma de presentaciones web, capaz de explotar la versatilidad de las tecnologías web para la visualización de datos, la interactividad y la programación, entre otras capacidades.
+    - Clases modelo con estudiantes del curso.
+    - Herramientas de evaluación técnica y pedagógica.
+    - Propuestas de desarrollo de herramientas pedagógicas con la plataforma.
 
 La investigación sobre plataformas de presentaciones similares, como Kahoot!, Nearpod, Slidebean, PowerPoint y otros, permitió la identificación de características deseables para este sistema.
 
@@ -81,9 +90,9 @@ La plataforma en desarrollo está disponible como un repositorio de código abie
 
 ## Otras actividades de docencia
 
-### Infografía: el espectro radioeléctrico
+### El espectro electromagnético (infografía)
 
-Desarrollé una *gigantografía* informativa sobre el espectro radioeléctrico, actualmente en exhibición en el edificio de la Escuela de Ingeniería Eléctrica, que mide 1 m de ancho por 22 m de alto.
+Desarrollé una *gigantografía* informativa de 1 m de ancho por 22 m de alto, actualmente en exhibición en el edificio de la Escuela de Ingeniería Eléctrica de la UCR.
 
 <div class="grid cards" markdown>
 
@@ -95,8 +104,10 @@ Desarrollé una *gigantografía* informativa sobre el espectro radioeléctrico, 
 
     [:material-link-circle: Repositorio Kérwá 10669/85519](https://kerwa.ucr.ac.cr/handle/10669/85519)
 
+    <small>Adobe Illustrator | Inkscape</small>
+
 </div>
 
 ### ElectrizArte
 
-Fui parte del equipo docente fundador del proyecto **ElectrizArte**, que combina el arte con la ingeniería. En el inicio de su trayectoria, ElectrizArte participó en el acto inaugural de **ExpoUCR 2011**, un espectáculo con más de 100 personas en escena, en donde participé en la organización, en la construcción de dispositivos electrónicos y también como actor.
+Fui parte del equipo docente fundador del proyecto **ElectrizArte**, que combina el arte con la ingeniería. En el inicio de su trayectoria, ElectrizArte participó en el acto inaugural de **ExpoUCR 2011**, un espectáculo con más de 100 personas en escena, en donde participé en la organización del evento, en la construcción de dispositivos electrónicos y en escena como actor.

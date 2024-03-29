@@ -8,4 +8,6 @@ categories:
 
 # ¡Hola mundo!
 
-Un sitio web personal será útil para compartir proyectos y trabajos y, aquí en el blog, pensamientos también.
+Este sitio web personal será útil para compartir intereses académicos, trabajos, proyectos y, aquí en este blog, también pensamientos.
+
+Espero escribir más sobre tecnología, transporte público, movilidad, ferias del agricultor... o francamente cualquier tema dentro y fuera de mi ámbito profesional (¡es mi jardín amurallado!).

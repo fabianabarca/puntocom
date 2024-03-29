@@ -13,7 +13,7 @@ theme:
   name: material
   language: es
   palette:
-    primary: grey
+    primary: black
   logo: assets/img/fa_blanco.png
   favicon: assets/img/favicon.png
   features:
@@ -24,6 +24,7 @@ theme:
     - content.tooltips
 
 plugins:
+  - search
   - blog
 
 extra:
@@ -40,7 +41,11 @@ extra:
 markdown_extensions:
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - md_in_html
   - footnotes
   - abbr
