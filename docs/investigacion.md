@@ -1,6 +1,6 @@
 # Investigación
 
-> Estoy haciendo investigación en sistemas inteligentes y análisis de datos, con aplicación específica en transporte público y movilidad. Trabajo en el diseño y la implementación de arquitecturas tecnológicas adaptadas a Costa Rica y, además, en el desarrollo de métodos de aprendizaje automático para análisis de series temporales, útiles en tareas como la predicción o la detección de anomalías en el servicio de transporte público.
+> Hago investigación en sistemas inteligentes y análisis de datos, con aplicación específica en transporte público y movilidad. Trabajo en el diseño y la implementación de arquitecturas tecnológicas adaptadas a Costa Rica y, además, en el desarrollo de métodos de aprendizaje automático para análisis de series temporales, útiles en tareas como la predicción o la detección de anomalías en el servicio de transporte público.
 
 ## Sistemas inteligentes de transporte público
 
