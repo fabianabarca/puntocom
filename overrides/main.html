@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block libs %}
+    <!-- Add scripts that need to run before here -->
+    {{ super() }}
+    <!-- Add scripts that need to run afterwards here -->
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "givenName": "Fabián",
+            "familyName": "Abarca Calderón",
+            "worksFor": {
+            "@type": "Organization",
+            "name": "Universidad de Costa Rica"
+            },
+            "alumniOf": [
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "University of Costa Rica"
+            },
+            {
+                "@type": "CollegeOrUniversity",
+                "name": "Northeastern University"
+            }
+            ],
+            "email": "fabian.abarca@ucr.ac.cr",
+            "jobTitle": ["Professor", "Researcher"],
+            "nationality": "Costa Rica",
+            "award": "Fulbright Scholarship",
+            "knowsAbout": [
+            "intelligent public transportation systems",
+            "mobility", 
+            "gtfs", 
+            "django", 
+            "python",
+            "telecommunications",
+            "data analysis",
+            "digital governance",
+            "open data"
+            ],
+            "knowsLanguage": ["Spanish", "English", "Portuguese"]
+        }
+    </script>
+{% endblock %}
