@@ -1,4 +1,4 @@
-# Fabián Abarca Calderón <small>Ing., Lic., M.Sc.</small>
+# Fabián Abarca Calderón <br /><small>Ing., Lic., M.Sc.</small>
 
 ## Hola
 

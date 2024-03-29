@@ -110,4 +110,4 @@ Desarrollé una *gigantografía* informativa de 1 m de ancho por 22 m de alto, a
 
 ### ElectrizArte
 
-Fui parte del equipo docente fundador del proyecto **ElectrizArte**, que combina el arte con la ingeniería. En el inicio de su trayectoria, ElectrizArte participó en el acto inaugural de **ExpoUCR 2011**, un espectáculo con más de 100 personas en escena, en donde participé en la organización del evento, en la construcción de dispositivos electrónicos y en escena como actor.
+Fui parte del equipo docente fundador del proyecto **ElectrizArte**, que combina el arte con la ingeniería. En el inicio de su trayectoria, ElectrizArte participó en el acto inaugural de **ExpoUCR 2011**, un espectáculo con más de 100 personas, en donde participé en la organización del evento, en la construcción de dispositivos electrónicos y en escena como actor.
