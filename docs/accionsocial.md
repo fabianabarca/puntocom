@@ -135,13 +135,15 @@ flowchart TD
     
     Propuesta del sistema de señalética para el sistema de información del bus interno de la Universidad de Costa Rica.
 
+    [:material-link-circle: fabianabarca.github.io/senaletica/](https://fabianabarca.github.io/senaletica/)
+    
     [:material-github: fabianabarca/senaletica](https://github.com/fabianabarca/senaletica)
 
     <small>Inkscape</small>
 
 </div>
 
-### Transportes San Gabriel
+### Buses de San Gabriel y Acosta
 
 En 2020 comenzamos nuestro primer proyecto de transporte público, para facilitar la información del servicio de buses a las comunidades de San Gabriel de Aserrí, San Ignacio de Acosta y alrededores.
 
@@ -151,7 +153,7 @@ En 2020 comenzamos nuestro primer proyecto de transporte público, para facilita
     Hoy en día este sitio recibe en promedio 1000 visitantes diarios, lo cual confirma la utilidad que tiene para la comunidad.
 
 !!! tip "¡Primeros en Google Maps!"
-    Este es el primer servicio de buses en Costa Rica con presencia en Google Maps, gracias al uso de datos estandarizados [GTFS](https://gtfs.org/).
+    Este es el primer servicio de buses en Costa Rica con presencia en Google Maps, gracias al uso de [datos estandarizados GTFS](https://transportessangabriel.com/gtfs/).
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">¿Cómo hacen ustedes cuando necesitan información de los buses en Costa Rica? ¿Encuentran fácilmente lo que buscan, como horarios y tarifas? En nuestro TCU hicimos un sitio web con datos «estandarizados» para usuarixs de 🚍 de la región Caraigres y esto fue lo que resultó 🧵</p>&mdash; Fab (@fabianabarca) <a href="https://twitter.com/fabianabarca/status/1426194551597944835?ref_src=twsrc%5Etfw">August 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -172,6 +174,14 @@ El sitio está disponible como un proyecto de código abierto.
     <small>Django | Python | Vue</small>
 
 </div>
+
+### Buses y colectivos de Pavas
+
+Estamos colaborando con el [Centro para la Sostenibilidad Urbana](https://cpsurbana.org/) (CPSU) en su proyecto de desarrollo para el transporte popular en la zona de Pavas, San José, Costa Rica. Esto es parte del [Programa Global de Investigación sobre Movilidad Informal y Compartida](https://vref.se/ism/) (ISM) de la [Fundación Volvo para la Investigación y Educación](https://vref.se/) (VREF).
+
+Nuestra colaboración específica es la elaboración de un suministro (*feed*) de datos abiertos estandarizados del transporte público en Pavas, utilizando las especificaciones [GTFS Schedule](https://gtfs.org/es/schedule/) para el servicio regular de Autotransportes Pavas y [GTFS Flex](https://gtfs.org/es/extensions/flex/) para el servicio popular o informal, que es de uso frecuente e importante en la región.
+
+Esta implementación facilitará el acceso a la información del servicio, en una zona de vulnerabilidad socioeconómica que depende, en buena medida, del transporte público para la movilización de sus pobladores, incluyendo las personas trabajadoras.
 
 ## Otros trabajos
 

@@ -15,7 +15,7 @@ Soy de San Gabriel de Aserrí (San José, Costa Rica) y actualmente vivo en Joã
 
 ## Intereses personales
 
-Aficionado a la música, la guitarra clásica, la batería y percusión en general. Me gusta el fútbol y los deportes (La Sele es mi equipo). Escucho muchos podcasts y audiolibros. Muy a mi pesar, me gusta la política y la realidad nacional e internacional (y a veces peleo en Twitter por eso).
+Aficionado a la música, la guitarra clásica y la batería. Me gusta el fútbol y los deportes. Escucho muchos podcasts y audiolibros. Muy a mi pesar, me gusta la política y la realidad nacional e internacional (y a veces peleo en Twitter por eso).
 
 ## Información de contacto
 

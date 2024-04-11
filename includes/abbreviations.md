@@ -12,3 +12,7 @@
 *[TIC]: Tecnologías de Información y Comunicación
 *[MPSS]: IE0405 - Modelos Probabilísticos de Señales y Sistemas
 *[TCU]: Trabajo Comunal Universitario
+*[CPSU]: Centro para la Sostenibilidad Urbana
+*[VREF]: Volvo Research and Educational Foundations
+*[ISM]: Informal and Shared Mobility in Low and Middle Income Countries
+*[ODS]: Objetivos de Desarrollo Sostenible
