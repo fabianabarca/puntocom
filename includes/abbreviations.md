@@ -8,6 +8,7 @@
 *[DL]: Deep Learning
 *[NN]: Neural Networks
 *[UCR]: Universidad de Costa Rica
+*[ITCR]: Instituto Tecnológico de Costa Rica
 *[EIE]: Escuela de Ingeniería Eléctrica
 *[TIC]: Tecnologías de Información y Comunicación
 *[MPSS]: IE0405 - Modelos Probabilísticos de Señales y Sistemas

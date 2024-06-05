@@ -1,6 +1,6 @@
 # Acción Social
 
-> Mi trabajo de acción social combina mis intereses de investigación y otros temas de interés personal para participar en la atención de necesidades comunitarias. Actualmente trabajo en dos grandes temas: transporte público y ferias del egricultor. En ambas áreas aplicamos herramientas de desarrollo de sistemas de información para la creación de sitios informativos junto con campañas de sensibilización en redes sociales. Esto acompañado de estudios de opinión, entrevistas, conversatorios y otras formas de acercamiento a la comunidad.
+> Mi trabajo de acción social combina mis intereses de investigación y otros temas de interés personal para participar en la atención de necesidades comunitarias. Actualmente trabajo en dos grandes temas: transporte público y ferias del agricultor. En ambas áreas aplicamos herramientas de desarrollo de sistemas de información para la creación de sitios informativos junto con campañas de sensibilización en redes sociales. Esto acompañado de estudios de opinión, entrevistas, conversatorios y otras formas de acercamiento a la comunidad.
 
 ## Trabajo comunal universitario
 

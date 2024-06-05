@@ -11,7 +11,7 @@ Soy de San Gabriel de Aserrí (San José, Costa Rica) y actualmente vivo en Joã
 - **Bachillerato** en Ingeniería Eléctrica (UCR)
 - **Licenciatura** en Ingeniería Eléctrica (UCR)
 - **Maestría** en *Electrical and Computer Engineering* (Northeastern University | Fulbright Scholar)
-- **Doctorando** en Ingeniería (UCR/ITCR) 
+- **Doctorando** (2026) en Ingeniería (UCR/ITCR) 
 
 ## Intereses personales
 
