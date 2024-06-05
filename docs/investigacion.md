@@ -4,7 +4,7 @@
 
 ## Sistemas inteligentes de transporte público
 
-El transporte público mejorado con tecnologías de información y comunicación (TIC) es un *sistema inteligente de transporte público*. Es capaz de ofrecer información oportuna a las personas usuarias y facilitar la operación, la gestión administrativa, la planificación y la regulación del servicio.
+El transporte público complementado con tecnologías de información y comunicación (TIC) es un *sistema inteligente de transporte público*. Es capaz de ofrecer información oportuna a las personas usuarias y también facilita la operación, la gestión administrativa, la planificación y la regulación del servicio. Esto es parte del concepto más amplio de las *ciudades inteligentes*.
 
 Los sistemas modernos de transporte público son una *industria de alta tecnología*, que operan sobre la base de sistemas de telecomunicaciones y redes, sistemas de información, análisis de datos, sensores y otras tecnologías.
 
@@ -22,8 +22,8 @@ Los sistemas modernos de transporte público son una *industria de alta tecnolog
 
 1.  Como, por ejemplo, la [Referencia de Arquitectura para Transporte Cooperativo e Inteligente](https://www.arc-it.net/) (ARC-IT) del Departamento de Transporte de Estados Unidos.
 2.  Siguiendo, por ejemplo, los [Principios de Interoperabilidad de Datos de Mobilidad](https://www.interoperablemobility.org/) (MDIP).
-3.  Como el plan piloto del sistema de información del servicio del bus interno de la UCR, que incluye datos GTFS Schedule y Realtime, pantallas informativas y una campaña de comunicación.
-4.  Específicamente sistemas de recolección y análisis de datos abiertos de transporte público GTFS Realtime.
+3.  Como el plan piloto del sistema de información del servicio del bus interno de la UCR, que incluye datos GTFS *Schedule* y *Realtime*, pantallas informativas y una campaña de comunicación.
+4.  Específicamente sistemas de recolección y análisis de datos abiertos de transporte público GTFS *Realtime*.
 5.  Con la aplicación de métodos de aprendizaje automático (ML) y profundo (DL).
 6.  Particularmente con el uso de PostGIS, GeoDjango y GeoPandas, y en menor medida con QGIS.
 7.  Según, por ejemplo, las definiciones de la [Comisión Económica para América Latina y el Caribe](https://biblioguias.cepal.org/gobierno-digital/concepto-gobernanza) (CEPAL) y la [Alianza para el Gobierno Abierto](https://www.opengovpartnership.org/es/about/approach/) (OGP).
@@ -32,16 +32,26 @@ Los sistemas modernos de transporte público son una *industria de alta tecnolog
 
 En esta área de investigación estoy coordinando o dirigiendo los siguientes proyectos.
 
-!!! abstract "Proyecto de Investigación 322-C3-184 (2023 - 2026)"
+!!! abstract "Proyecto de Investigación 322-C3-184 (2023 - 2026) <small>EN DESARROLLO</small>"
     **Análisis de datos abiertos de sistemas inteligentes de transporte público con herramientas de aprendizaje automático**
 
     ---
 
-    Principales resultados esperados:
+    Principales resultados en desarrollo:
 
-    - Una plataforma de recolección de datos abiertos en tiempo real de transporte público.
-    - Estrategias *en tiempo real* y *adaptativas* de aprendizaje automático (ML) para la predicción de series temporales.
     - Una propuesta de arquitectura tecnológica de un sistema inteligente de transporte público para Costa Rica.
+    - Una plataforma de recolección de datos abiertos en tiempo real de transporte público.
+    - Estrategias *en tiempo real* (*online*) y *adaptativas* de aprendizaje automático (ML) para la predicción de series temporales.
+
+!!! abstract "Trabajo final de graduación de licenciatura modalidad seminario (2022 - 2025) <small>EN DESARROLLO</small>"
+    **Diseño de una arquitectura de referencia para un sistema inteligente de transporte público en Costa Rica**
+
+    ---
+
+    Principales resultados del proyecto con estudiantes de licenciatura en ingeniería eléctrica:
+    
+    - Una propuesta concreta de una arquitectura tecnológica de un sistema inteligente de transporte público en Costa Rica.
+    - La implementación del plan piloto de un sistema de información en el campus de la Universidad de Costa Rica.
 
 !!! abstract "Proyecto de Investigación C1749 (2021 - 2022) <small>CONCLUIDO</small>"
     **Investigación del estado de la cuestión para la aplicación de aprendizaje automático en el análisis de datos espacio-temporales**
@@ -53,16 +63,6 @@ En esta área de investigación estoy coordinando o dirigiendo los siguientes pr
     - La identificación de la problemática del análisis de datos espacio-temporales en el transporte público en Costa Rica.
     - Propuesta de un nuevo proyecto de investigación y un trabajo final de graduación.
 
-!!! abstract "Trabajo final de graduación de licenciatura modalidad seminario (2022 - 2024)"
-    **Diseño de una arquitectura de referencia para un sistema inteligente de transporte público en Costa Rica**
-
-    ---
-
-    Principales resultados esperados del proyecto con estudiantes de licenciatura en ingeniería eléctrica:
-    
-    - Una propuesta concreta de una arquitectura tecnológica de un sistema inteligente de transporte público en Costa Rica.
-    - La implementación del plan piloto de un sistema de información en el campus de la Universidad de Costa Rica.
-
 ### Repositorios
 
 A partir de estos proyectos y en conjunto con el trabajo comunal universitario TC-691 "Tropicalización de la tecnología" y otras instancias dentro y fuera de la universidad, estoy coordinando el desarrollo de los siguientes proyectos de software.
@@ -73,7 +73,7 @@ A partir de estos proyectos y en conjunto con el trabajo comunal universitario T
     
     ---
     
-    Una plataforma de recolección de datos de **GTFS Realtime** para su transformación en series temporales multivariadas y el análisis con aprendizaje automático.
+    Una plataforma de recolección de datos de **GTFS Realtime** para su visualización y transformación en series temporales multivariadas y el análisis con aprendizaje automático.
 
     [:material-github: fabianabarca/gtfs2series](https://github.com/fabianabarca/gtfs2series)
 
@@ -97,7 +97,17 @@ A partir de estos proyectos y en conjunto con el trabajo comunal universitario T
 
     [:material-github: fabianabarca/realtime](https://github.com/fabianabarca/realtime)
 
-    <small>Django | Python | Celery | API | PostgreSQL | PostGIS</small>
+    <small>Django | Python | Celery | Web API | PostgreSQL | PostGIS</small>
+
+-  :material-database:{ .lg .middle } **datahub**
+    
+    ---
+    
+    Un servidor para la recolección de datos **GTFS Realtime** y otros datos complementarios para la distribución a sistemas de información.
+
+    [:material-github: fabianabarca/datahub](https://github.com/fabianabarca/datahub)
+
+    <small>Django | Python | Celery | Web API | PostgreSQL | PostGIS</small>
 
 -  :material-fit-to-screen:{ .lg .middle } **screens**
     
@@ -109,23 +119,23 @@ A partir de estos proyectos y en conjunto con el trabajo comunal universitario T
 
     <small>Django | Python | Celery | WebSockets | PostgreSQL | PostGIS</small>
 
--  :material-calendar-edit:{ .lg .middle } **databus**
+-  :material-calendar-edit:{ .lg .middle } **editor**
     
     ---
     
-    Una plataforma con un editor web para la creación del suministro de datos **GTFS Schedule**, diseñado para el contexto de Costa Rica. 
+    Una plataforma web para la creación y edición del suministro de datos **GTFS Schedule**, diseñado para el contexto de Costa Rica. 
     
-    [:material-github: fabianabarca/databus](https://github.com/fabianabarca/databus)
+    [:material-github: fabianabarca/editor](https://github.com/fabianabarca/editor)
 
-    <small>Django | Python | Celery | API | React | Material UI</small>
+    <small>Django | Python | Celery | Web API | React | Material UI</small>
 
--  :material-calendar-clock:{ .lg .middle } **databus-stoptimes**
+-  :material-calendar-clock:{ .lg .middle } **editor-stoptimes**
     
     ---
     
-    Un paquete de Python, complementario a **databus**, con algoritmos de estimación de los tiempos de llegada a las paradas en **GTFS Schedule**. 
+    Un paquete de Python, complementario a **editor**, con algoritmos de estimación de los tiempos de llegada a las paradas en **GTFS Schedule** para `stop_times.txt`. 
     
-    [:material-github: fabianabarca/databus-stoptimes](https://github.com/fabianabarca/databus-stoptimes)
+    [:material-github: fabianabarca/editor-stoptimes](https://github.com/fabianabarca/editor-stoptimes)
 
     <small>Python | Pandas | GeoPandas | SciPy</small>
 
@@ -133,11 +143,21 @@ A partir de estos proyectos y en conjunto con el trabajo comunal universitario T
     
     ---
     
-    Un paquete de Python, complementario a **databus**, que transforma datos geoespaciales tipo GeoDataFrame en el formato `shapes.txt` de **GTFS Schedule**. 
+    Un paquete de Python, complementario a **editor**, que transforma datos geoespaciales tipo GeoDataFrame en el formato `shapes.txt` de **GTFS Schedule**. 
     
     [:material-github: fabianabarca/gdf2shapes](https://github.com/fabianabarca/gdf2shapes)
 
     <small>Python | GeoPandas</small>
+
+-  :material-cellphone-cog:{ .lg .middle } **databus**
+    
+    ---
+    
+    Una aplicación móvil operativa como alternativa de bajo costo para un equipo de telemetría y rastreo de vehículos de transporte público con funcionalidad limitada. 
+    
+    [:material-github: fabianabarca/databus](https://github.com/fabianabarca/databus)
+
+    <small>React Native | Material UI</small>
 
 </div>
 

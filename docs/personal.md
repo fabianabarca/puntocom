@@ -2,7 +2,7 @@
 
 ## Fabián Abarca Calderón
 
-![Fabián Abarca Calderón](assets/img/perfil.png)
+<img src="/assets/img/perfil_cuadrado.jpeg" width="200px">
 
 Soy de San Gabriel de Aserrí (San José, Costa Rica) y actualmente vivo en João Pessoa (Paraíba, Brasil).
 
@@ -15,7 +15,7 @@ Soy de San Gabriel de Aserrí (San José, Costa Rica) y actualmente vivo en Joã
 
 ## Intereses personales
 
-Aficionado a la música, la guitarra clásica y la batería. Me gusta el fútbol y los deportes. Escucho muchos podcasts y audiolibros. Muy a mi pesar, me gusta la política y la realidad nacional e internacional (y a veces peleo en Twitter por eso).
+Aficionado a la música, la guitarra clásica y la batería. Me gusta el fútbol y los deportes. Escucho muchos podcasts y audiolibros.
 
 ## Información de contacto
 
@@ -24,3 +24,5 @@ Aficionado a la música, la guitarra clásica y la batería. Me gusta el fútbol
 [:material-twitter: fabianabarca](https://twitter.com/fabianabarca)
 
 [:material-github: fabianabarca](https://github.com/fabianabarca)
+
+[:material-instagram: tpi.ucr](https://instagram.com/tpi.ucr)

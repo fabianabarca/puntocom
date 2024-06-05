@@ -1,3 +1,3 @@
-# Mis observaciones
+# Comentarios
 
-> ¡Escribamos un blog como si fuera el 2005!
+**Escribamos un blog como si fuera el 2005**

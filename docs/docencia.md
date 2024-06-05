@@ -34,7 +34,7 @@
 
 Este proyecto de docencia propone el desarrollo de una herramienta pedagógica y tecnológica alrededor del curso MPSS.
 
-!!! abstract "Proyecto de Docencia PD-IE-472-2022 (2022 - 2025)"
+!!! abstract "Proyecto de Docencia PD-IE-472-2022 (2022 - 2025) <small>EN DESARROLLO</small>"
     **Estrategias docentes para sesiones virtuales interactivas con el desarrollo de un nuevo sistema web: una experiencia en el curso MPSS**
 
     ---
@@ -80,19 +80,19 @@ La plataforma en desarrollo está disponible como un repositorio de código abie
 
 ## Otros cursos
 
-- **IE0209 - Circuitos Lineales I**: introducción a la teoría de análisis de circuitos eléctricos
-- **IE0413 - Electrónica II**: procesamiento de señales con electrónica analógica
-- **IE0513 - Electrónica III**: electrónica de potencia, incluyendo fuentes conmutadas
-- **IE0308 - Laboratorio Eléctrico I**: laboratorio de dispositivos y circuitos de electrónica analógica
-- **IE0408 - Laboratorio Eléctrico II**: laboratorio de procesamiento de señales con electrónica analógica
-- **IE0527 - Ingeniería de Comunicaciones**: introducción a la teoría de información y sistemas de telecomunicaciones
-- **IE0513 - Proyecto Eléctrico**: trabajo de investigación y diseño para el final del bachillerato
+- **IE0209 - Circuitos Lineales I**: introducción a la teoría de análisis de circuitos eléctricos.
+- **IE0413 - Electrónica II**: procesamiento de señales con electrónica analógica.
+- **IE0513 - Electrónica III**: electrónica de potencia, incluyendo fuentes conmutadas.
+- **IE0308 - Laboratorio Eléctrico I**: laboratorio de dispositivos y circuitos de electrónica analógica.
+- **IE0408 - Laboratorio Eléctrico II**: laboratorio de procesamiento de señales con electrónica analógica.
+- **IE0527 - Ingeniería de Comunicaciones**: introducción a la teoría de información y sistemas de telecomunicaciones.
+- **IE0513 - Proyecto Eléctrico**: trabajo de investigación y diseño para el final del bachillerato.
 
 ## Otras actividades de docencia
 
 ### El espectro electromagnético (infografía)
 
-Desarrollé una *gigantografía* informativa de 1 m de ancho por 22 m de alto, actualmente en exhibición en el edificio de la Escuela de Ingeniería Eléctrica de la UCR.
+Desarrollé una *gigantografía* informativa de 1 m de ancho por 22 m de alto, actualmente en exhibición en el edificio de la Escuela de Ingeniería Eléctrica de la UCR, a lo alto de sus seis pisos.
 
 <div class="grid cards" markdown>
 
@@ -110,4 +110,4 @@ Desarrollé una *gigantografía* informativa de 1 m de ancho por 22 m de alto, a
 
 ### ElectrizArte
 
-Fui parte del equipo docente fundador del proyecto **ElectrizArte**, que combina el arte con la ingeniería. En el inicio de su trayectoria, ElectrizArte participó en el acto inaugural de **ExpoUCR 2011**, un espectáculo con más de 100 personas, en donde participé en la organización del evento, en la construcción de dispositivos electrónicos y en escena como actor.
+Fui parte del equipo docente fundador del proyecto **ElectrizArte**, que combina el arte con la ingeniería. En el inicio de su trayectoria, ElectrizArte participó en el acto inaugural de **ExpoUCR 2011**, un espectáculo con más de 100 personas, en donde participé en la organización del evento, en la construcción de dispositivos electrónicos para el espectáculo y en escena, como actor.

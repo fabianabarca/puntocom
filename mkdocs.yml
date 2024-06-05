@@ -13,13 +13,23 @@ theme:
   name: material
   language: es
   palette:
-    primary: black
+    - scheme: default
+      primary: black
+      toggle:
+        icon: material/weather-night 
+        name: Llegó la noche
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/weather-sunny
+        name: Llegó el día
   logo: assets/img/fa_blanco.png
   favicon: assets/img/favicon.png
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.top
+    - navigation.footer
     - toc.integrate
     - content.tooltips
     - content.code.copy
